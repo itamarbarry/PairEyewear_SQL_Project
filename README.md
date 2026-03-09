@@ -10,7 +10,7 @@ This project involved designing a customized database, executing advanced SQL qu
 **Overall Project Grade:** 95/100
 
 ### Repository Contents  
-- 📄 **Three PDF reports** containing project objectives, insights, and all SQL code used in the project.  
+- 📄 **Three PDF reports** (in Hebrew) containing project objectives, insights, and all SQL code used in the project.  
 - 📈 **Power BI file** with interactive dashboards and analytical reports.  
 - 📊 **Excel file** containing the data tables, generated manually using Python.  
 
