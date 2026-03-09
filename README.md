@@ -5,7 +5,7 @@ This project was completed as part of the **"Data Bases"** B.Sc. course in the *
 
 It focuses on business analysis of data from [**Pair Eyewear**](https://paireyewear.com), a website that sells customizable glasses and sunglasses. The main process represented is the purchase of various types of eyewear and accessories.  
 
-This project involved designing a customized database, executing advanced SQL queries to extract insights, and building analytical dashboards to support data-driven business decisions.
+This project involved designing and building a relational database from scratch (including ERD modeling), generating synthetic data to populate the database, executing advanced SQL queries to extract insights, and building analytical dashboards to support data-driven business decisions.
 
 **Overall Project Grade:** 95/100
 
